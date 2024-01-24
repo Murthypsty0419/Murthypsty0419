@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Graphic+Designer;AI%20|%20ML%20|%20DS%20Enthusiastic;Escape%20Explore%20Dream%20Discover&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Graphic+Designer;AI%20|%20ML%20|%20DS%20Enthusiast;Escape%20Explore%20Dream%20Discover&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
@@ -72,12 +72,11 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
+<details> 
+<summary>
 <hr>
-<p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-  <summary>💻 GitHub Profile Stats</summary>
+</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murthy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Murthypsty0419&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murthy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murthypsty0419&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -85,3 +84,4 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+</details>
