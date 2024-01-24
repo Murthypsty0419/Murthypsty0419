@@ -79,9 +79,11 @@ I am an innovative🚀, deadline-driven⏰, determined with unwavering values�
  <img  src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
 </p> 
   </div>
-<br>
+<be>
+
 <!---------------------------------------------------------Github Information----------------------------------------------------------------------------------------->  
 ## 📊 Git Activeness
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
