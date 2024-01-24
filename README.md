@@ -73,31 +73,18 @@ I am an innovative🚀, deadline-driven⏰, determined with unwavering values�
 
 
 
-<hr>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murthy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Murthypsty0419&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murthy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murthypsty0419&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-</details>
-
-
 
 
 <!---------------------------------------------------------Github Information----------------------------------------------------------------------------------------->  
 
 <details>
- <h2 align="center">:information_source: Github Information :information_source:</h2>
-<summary> :information_source:	Github Information</summary> <br>
+ <h2 align="center">: Github Information </h2>
+<summary> :<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i> <br>
  <div align="center" style="display: inline-flex;">
   
- <img src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="center"  width="47%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Murthypsty0419&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="center"  width="47%"/>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murthypsty0419&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
    <br><br>
 
 </div>
