@@ -4,31 +4,24 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Graphic+Designer;AI%20|%20ML%20|%20DS%20Enthusiast;Escape%20Explore%20Dream%20Discover&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Graphic+Designer;AI%20|%20ML%20|%20DS%20Enthusiast;Escape | %20Explore |%20Dream |%20Discover |&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
 
 <!---------------------------------------------------------Languages and Tools:----------------------------------------------------------------------------------------->  
 
-<details>
   <h2 align="center">🧰 Languages and Tools 🧰</h2>
- <summary> 🧰 Languages and Tools</summary> 
-   <br>
-<div align="center"> 
-  <img src="images/languages and tools logo/csharp.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp; 
-  <img src="images/languages and tools logo/bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/asp.net mvc core.jfif" title="AspddotnetMVC" alt="Asp.net mvc core" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/Git-Logo.jpg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp; 
-</div>
-  <br>
+ 
   
 <div style="text-align:center;">
+
+   📋 Programming Languages: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
   💾 Database: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
       
@@ -59,11 +52,7 @@
   💻 Code Editor: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    
-  📋 Languages: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
+ 
   💻 OS: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   
@@ -72,7 +61,6 @@
 
  </div>
 <br>
-</details>
 
 
 
