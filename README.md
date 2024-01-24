@@ -80,14 +80,8 @@ I am an innovative🚀, deadline-driven⏰, determined with unwavering values�
 </p> 
   </div>
 <br>
-
-
-
-
-
 <!---------------------------------------------------------Github Information----------------------------------------------------------------------------------------->  
 ## 📊 Git Activeness
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
