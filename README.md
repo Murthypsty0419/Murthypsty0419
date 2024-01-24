@@ -8,10 +8,6 @@
 </p>
 <hr/>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Graphic+Designer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-<hr/>
 <samp>
 I am an innovative🚀, deadline-driven⏰, determined with unwavering values🌟 and ethical principles🤝. Fueled by passion💡 and equipped with excellent communication🗣️, organizational📊, and detail-oriented🔍 skills, I bring a vibrant energy🔥 to achieving goals🎯 and making a positive impact.
 </samp>
@@ -19,7 +15,7 @@ I am an innovative🚀, deadline-driven⏰, determined with unwavering values�
 
 <!---------------------------------------------------------Languages and Tools:----------------------------------------------------------------------------------------->  
 
-  <h2 align="center">🧰 Languages and Tools 🧰</h2>
+  ## 🛠️ Languages and Tools 
  
   
 <div style="text-align:center;">
@@ -76,11 +72,10 @@ I am an innovative🚀, deadline-driven⏰, determined with unwavering values�
 
 
 
-<details> 
-<summary>
+
 <hr>
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-</summary>
+
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murthy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Murthypsty0419&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murthy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murthypsty0419&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -101,12 +96,10 @@ I am an innovative🚀, deadline-driven⏰, determined with unwavering values�
  <div align="center" style="display: inline-flex;">
   
  <img src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="center"  width="47%"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true" align="center" width="47%"/> 
-  <br> <br>
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
    <br><br>
- <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-   
+
 </div>
  <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
