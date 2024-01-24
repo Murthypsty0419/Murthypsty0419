@@ -4,16 +4,16 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Graphic+Designer;AI%20|%20ML%20|%20DS%20Enthusiast;Escape | %20Explore |%20Dream |%20Discover |&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Graphic+Designer;AI%20|%20ML%20|%20DS%20Enthusiast;Escape%20|%20Explore%20|%20Dream%20|%20Discover%20|&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Graphic+Designer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 <samp>
-I am an innovative🚀, deadline-driven⏰, determined💪 professional👩‍💼 with unwavering values🌟 and ethical principles🤝. Fueled by passion💡 and equipped with excellent communication🗣️, organizational📊, and detail-oriented🔍 skills, I bring a vibrant energy🔥 to achieving goals🎯 and making a positive impact.
+I am an innovative🚀, deadline-driven⏰, determined with unwavering values🌟 and ethical principles🤝. Fueled by passion💡 and equipped with excellent communication🗣️, organizational📊, and detail-oriented🔍 skills, I bring a vibrant energy🔥 to achieving goals🎯 and making a positive impact.
 </samp>
 
 
