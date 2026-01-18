@@ -82,7 +82,6 @@ I am an innovative, determined with unwavering values. Fueled by passion and equ
 <be>
 
 <!---------------------------------------------------------Github Information----------------------------------------------------------------------------------------->  
-## 📊 Git Activeness
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
