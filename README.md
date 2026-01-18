@@ -9,7 +9,7 @@
 <hr/>
 
 <samp>
-I am an innovative🚀, determined with unwavering values🌟. Fueled by passion💡 and equipped with excellent communication🗣️, organizational📊, and detail-oriented🔍 skills, I bring a vibrant energy🔥 to achieving goals🎯 and making a positive impact.
+I am an innovative, determined with unwavering values. Fueled by passion and equipped with excellent communication, organizational, and detail-oriented🔍 skills, I bring a vibrant energy to achieving goals and making a positive impact.
 </samp>
 
 
